@@ -1,6 +1,6 @@
 # week_1_challenge
 
-<img src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6686640734889644032"  width="200" height="350" /> 
 
 
-![Finished App](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6686640734889644032)
+
+![Finished App](https://user-images.githubusercontent.com/15935347/90017505-ee139300-dcab-11ea-8b21-1ae4a6bbe0f6.gif)
